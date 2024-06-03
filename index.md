@@ -4,7 +4,7 @@
 
 Detour is an 11u keyboard, designed by Nachie. The case features an 11u main cluster along with an angled macro row, rotary encoder and an OLED display. The main idea behind an 11u layout is having everything within reach from the homerow. There is little to no wrist moment needed to reach any of the keys. This is achieved by removing the number row and also some modifiers and symbol keys. These functions are obtained by using QMK features like tap-dance, mod tap and Homerow mods.
 
-*The case was heavily influenced from the Ave keyboard from TheRoyal. The keyboard supports a 11u layout which is a slight modification of the Vault35 layout from MechVault (which inturn was developed from the QAZ layout from tominabox1)*
+*The case was heavily influenced from the Ave keyboard from TheRoyal. The keyboard supports a 11u layout which is a slight modification of the Vault35 layout from MechVault (which in turn was developed from the QAZ layout from tominabox1)*
 
 As of writting this guide, there was a prototype run of 5 units and an in-stock run from RNDKBD (units TBD).
 
@@ -49,6 +49,7 @@ The Detour supports multiple mounting options.
 - For PCB mount, the plate is optional. Recommendation is to use 5 pin switches without plate.
 - Tabs on PCB will be used for mounting it to the bottom case
 IMG-PCB tabs
+
 ### Top Mount/Leaf Spring
 - The Detour uses Syndrome Plates. These plates provide custom modified LeafSpring mounting tabs with three mounting locations
 IMG-Plate tabs

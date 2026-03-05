@@ -31,6 +31,8 @@ A note about screws: Some units don't have the daughterboard pre-attached. Pleas
 
 ## Macro Row Assembly
 
+
+- Press-fit the acrylic OLED cover in the cutout. It may need to be sanded gently, as it's a very tight fit. A tip is to use a piece of tape over the top of the OLED cover so you can align it from above and press it in firmly and flush.
 - Mount the macro row plate first. Only add screws on the top row.
 - Add macro row switches onto plate.
 ![TopPlate](img/TopPlate.jpg)

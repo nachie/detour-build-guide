@@ -6,7 +6,7 @@ Detour is an 11u keyboard, designed by Nachie. The case features an 11u main clu
 
 *The case was heavily influenced from the Ave keyboard from TheRoyal. The keyboard supports a 11u layout which is a slight modification of the Vault35 layout from MechVault (which in turn was developed from the QAZ layout from tominabox1)*
 
-As of writting this guide, there was a prototype run of 5 units and an in-stock run from RNDKBD (units TBD).
+Updated March 5th 2026 for the Gold/Green/Blue/Black GB from RNDKBD.
 
 ## Kit Contents:
 
@@ -17,12 +17,17 @@ Make sure you have the following before building.
 - 1x Detour Case, top and bottom in aluminum
 - 1x Syndrome PCB + Detour Extension (for macro row)
 - 1x FFC Cable, UDB, UDB cable
-- 1x Screw Pack for case and mounting
+- 8x M2x4 Black screws (for macro row mounting)
+- 4x M2x5 UDB mounting screws (black if pre-installed UDB, silver if not)
+- 4x M3x16 Silver Case screws
+- 4x M2.5x5 Black PCB/Plate mounting screws
 - 1x OLED and cover - Black Acrylic
 - 1x Encoder Knob
 - 4x Silicone Feet
 - 1x FR4 universal plates for each, macro and main cluster
 - 1x EC11 encoder
+
+A note about screws: Some units don't have the daughterboard pre-attached. Please use the silver M2x5 screws and included 1.3mm hex key for the daughterboard.
 
 ## Macro Row Assembly
 
@@ -43,7 +48,6 @@ Make sure you have the following before building.
 
 - Mount UDB inside the case bottom, and attach cable.
 ![UDB](img/UDB.jpg)
-- Depending on C3 or C4, this would be the JST SH or EZ-Mate end of the cable respectively.
 - The main cluster pcb only supports JST.
 
 ## Choose mounting option
